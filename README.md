@@ -1,2 +1,2 @@
-# Gamified-E-Learning-Platform-for-O-L-ICT-Students-Group-Project
-Present
+# KVJP_1-SmartOLICT
+Gamified Learning System for O/L ICT Students
